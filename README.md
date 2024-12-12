@@ -11,7 +11,7 @@ It is live on TODO
 
 Thank you for choosing to develop along side
 
-Tech Stack : SvelteKit, Lucia(auth), Drizzle (ORM,sqlite), Tailwindcss
+Tech Stack : SvelteKit
 
 ## Special Note
 This is my first actual project on the Web. So the code is very janky. Feel free to crtique and involve in its development
